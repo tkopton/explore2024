@@ -46,9 +46,9 @@ generate_log_type_and_message() {
   local type=${types[$RANDOM % ${#types[@]}]}
   
   if [ "$type" == "INFO" ]; then
-    echo "$type: Request processed successfully."
+    echo "$type: {\"my_response\"=\"welcome_to_code\"}"
   else
-    echo "$type: Failed to process request."
+    echo "$type: my_message=access_denied"
   fi
 }
 
