@@ -1,0 +1,59 @@
+Configuring transport... proto = cfapi server_hostname = LOCALHOST ssl = no port = 9000 reconnect = 30
+Configuring transport... proto = cfapi server_hostname = LOCALHOST ssl = no port = 9000 reconnect = 30
+proto = cfapi server_hostname = LOCALHOST ssl = no port = 9000 reconnect = 30
+proto = cfapi, server_hostname = LOCALHOST, ssl = no, port = 9000, reconnect = 30
+proto=cfapi,server_hostname=LOCALHOST,ssl=no,port=9000,reconnect=30
+proto=cfapi,server_hostname=LOCALHOST,ssl=no,port=9000,reconnect=30
+proto=cfapi,server_hostname=LOCALHOST,ssl=no,port=9000,reconnect=30
+proto=cfapi,server_hostname=LOCALHOST,ssl=no,port=9000,reconnect=30
+proto=cfapi,server_hostname=LOCALHOST,ssl=no,port=9000,reconnect=30
+proto=cfapi,server_hostname=LOCALHOST,ssl=no,port=9000,reconnect=30
+proto=cfapi,server_hostname=LOCALHOST,ssl=no,port=9000,reconnect=30
+proto=cfapi,server_hostname=LOCALHOST,ssl=no,port=9000,reconnect=30
+proto=cfapi,server_hostname=LOCALHOST,ssl=no,port=9000,reconnect=30
+proto=cfapi,server_hostname=LOCALHOST,ssl=no,port=9000,reconnect=30
+proto=cfapi,server_hostname=LOCALHOST,ssl=no,port=9000,reconnect=30
+proto=cfapi,server_hostname=LOCALHOST,ssl=no,port=9000,reconnect=30
+field01=value01
+field02=value02
+field01=value01
+field02=value02
+field01=value01
+field02=value02
+field01=value01
+field02=value02
+field01=value01
+field02=value02
+proto=cfapi,server_hostname=LOCALHOST,ssl=no,port=9000,reconnect=30
+proto=cfapi,server_hostname=LOCALHOST,ssl=no,port=9000,reconnect=30
+proto=cfapi,server_hostname=LOCALHOST,ssl=no,port=9000,reconnect=30
+Configuring transport... proto = cfapi server_hostname = LOCALHOST ssl = no port = 9000 reconnect = 30
+Configuring transport... proto = cfapi server_hostname = LOCALHOST ssl = no port = 9000 reconnect = 30
+1234 proto = cfapi server_hostname = LOCALHOST ssl = no port = 9000 reconnect = 30
+1234 proto = cfapi server_hostname = LOCALHOST ssl = no port = 9000 reconnect = 30
+1234 proto = cfapi server_hostname = LOCALHOST ssl = no port = 9000 reconnect = 30
+1234 proto = cfapi server_hostname = LOCALHOST ssl = no port = 9000 reconnect = 30
+1234 proto = cfapi server_hostname = LOCALHOST ssl = no port = 9000 reconnect = 30
+1234 proto = cfapi server_hostname = LOCALHOST ssl = no port = 9000 reconnect = 30
+1234 proto = cfapi server_hostname = LOCALHOST ssl = no port = 9000 reconnect = 30
+1234 proto = cfapi server_hostname = LOCALHOST ssl = no port = 9000 reconnect = 30
+1234 proto = cfapi server_hostname = LOCALHOST ssl = no port = 9000 reconnect = 30
+1234 proto = cfapi server_hostname = LOCALHOST ssl = no port = 9000 reconnect = 30
+Configuring transport... proto = cfapi server_hostname = LOCALHOST ssl = no port = 9000 reconnect = 30
+Configuring transport... proto = cfapi server_hostname = LOCALHOST ssl = no port = 9000 reconnect = 30
+2019-03-29T11:00:54.858Z
+        host-FQDN Hostd: error hostd[2099230]
+        [Originator@6876 sub=Default opID=1983bdbe-c1-800f user=admin.user] AdapterServer caught
+        exception: SSLExceptionE(SSL Exception: error:140000DB:SSL routines:SSL routines:short read:
+        The connection was closed by the remote end during handshake.)
+        
+ 2019-03-29T11:00:54.858Z host-FQDN Hostd: error hostd[2099230] [Originator@6876 sub=Default opID=1983bdbe-c1-800f user=admin.user] AdapterServer caught
+ 
+94.176.166.13 - user296 [24/Oct/2024:17:40:11 +0200] "GET /contact.html HTTP/1.0" 200 3201
+65.16.212.149 - user963 [24/Oct/2024:17:40:12 +0200] "DELETE /about.html HTTP/1.0" 500 1323
+24/Oct/2024:17:42:59 +0200 131.208.0.85 - user164 "GET /contact.html HTTP/1.0" 500 4977
+24/Oct/2024:17:43:00 +0200 117.39.179.131 - user29 "DELETE /contact.html HTTP/1.0" 200 4516
+24/Oct/2024:17:43:01 +0200 130.139.163.41 - user51 "POST /contact.html HTTP/1.0" 404 3155
+2024-10-24T15:47:00.429Z 101.243.233.209 - user959 "PUT /index.html HTTP/1.0" 500 7206
+2024-10-24T15:52:01.863Z 26.8.34.216 - user789 "PUT /contact.html HTTP/1.0" 200 4393 INFO: Request processed successfully.
+2024-10-24T15:52:02.692Z 35.110.19.104 - user204 "GET /about.html HTTP/1.0" 500 178 ERROR: Failed to process request.

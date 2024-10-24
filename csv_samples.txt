@@ -1,0 +1,28 @@
+### Sample CSV log lines  ###
+Jane,Smith,London,United Kingdom
+Michael,Brown,Manchester,United Kingdom
+Sarah,Johnson,Birmingham,United Kingdom
+David,Williams,Glasgow,United Kingdom
+Emily,Jones,Liverpool,United Kingdom
+Emma,Taylor,Cologne,Germany
+James,Anderson,Frankfurt,Germany
+Sophia,Martinez,São Paulo,Brazil
+Lucas,Garcia,Rio de Janeiro,Brazil
+Isabella,Silva,Salvador,Brazil
+Gabriel,Oliveira,Brasília,Brazil
+Maria,Santos,Fortaleza,Brazil
+William,Clark,New York,United States
+Olivia,Lee,Los Angeles,United States
+Ethan,Walker,Chicago,United States
+Ava,Hall,Houston,United States
+Alexander,Young,Toronto,Canada
+
+
+John,Davis,10115:Berlin,Germany
+Laura,Miller,20144:Hamburg,Germany
+Thomas,Wilson,80333:Munich,Germany
+
+
+2024-10-14 09:54:40,William,Clark,New York,United States
+2024-10-14 09:55:20,Olivia,Lee,Los Angeles,United States
+2024-10-14 09:55:50,Ethan,Walker,Chicago,United States
