@@ -46,7 +46,7 @@ generate_log_type_and_message() {
   local type=${types[$RANDOM % ${#types[@]}]}
   
   if [ "$type" == "INFO" ]; then
-    echo "$type: {\"my_response\"=\"welcome_to_code\"}"
+    echo "$type: {\"my_response\":\"welcome_to_code\"}"
   else
     echo "$type: my_message=access_denied"
   fi
