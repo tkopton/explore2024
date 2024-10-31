@@ -13,6 +13,6 @@ generate_request_line() {
 }
 
 # Generate and write the log entry
-log_entry="$(generate_timestamp) $(generate_request_line)"
+log_entry="$(generate_timestamp),$(generate_request_line)"
 echo "$log_entry" >> /home/tkopton/explore2024/logs01/csvlog01.csv
 
