@@ -5,7 +5,7 @@ generate_timestamp() {
   date "+%Y-%m-%d %H:%M:%S"
 }
 
-# Function to generate a random HTTP request line
+# Function to generate a random record line
 generate_request_line() {
   local records=("William,Clark,123:New York,United States" "John,Davis,10115:Berlin,Germany" "Thomas,Wilson,80333:Munich,Germany" "David,Williams,20345:Glasgow,United Kingdom")
   local record=${records[$RANDOM % ${#records[@]}]}
